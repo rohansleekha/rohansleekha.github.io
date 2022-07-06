@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feb0605d.css",
+    "main.js": "/static/js/main.111ef9c6.js",
+    "static/js/787.ea5435e8.chunk.js": "/static/js/787.ea5435e8.chunk.js",
+    "static/media/userAuthorization.jpg": "/static/media/userAuthorization.6e83113f510d4e3eb610.jpg",
+    "static/media/transferLearningPCGModel.png": "/static/media/transferLearningPCGModel.844452ef22de0921aa31.png",
+    "static/media/covid19CTLung.jpg": "/static/media/covid19CTLung.f1132aea787ec38eb1b9.jpg",
+    "static/media/predictFlight.png": "/static/media/predictFlight.f29aa3aab4119aa56b63.png",
+    "static/media/emergencyVehicle.jpg": "/static/media/emergencyVehicle.1049a595bf3b2f5aad08.jpg",
+    "static/media/efficacyModel.png": "/static/media/efficacyModel.511adbf0f91bb04b4ec6.png",
+    "static/media/heartHealth.png": "/static/media/heartHealth.f31026565be996ca774c.png",
+    "static/media/patentOne.png": "/static/media/patentOne.14fa7c20a612e34ca605.png",
+    "static/media/forecastDemand.png": "/static/media/forecastDemand.47ee8ca7ab6a375f1b4b.png",
+    "static/media/patentTwo.png": "/static/media/patentTwo.eb3b212565a712e95259.png",
+    "static/media/heartHealthPaper7.png": "/static/media/heartHealthPaper7.3913273bfde909764b4b.png",
+    "static/media/machineHack.png": "/static/media/machineHack.5dae3a40642a26064b92.png",
+    "static/media/predictNumberOfUpvotes.jpg": "/static/media/predictNumberOfUpvotes.b495cbf3fefffbf90c63.jpg",
+    "static/media/ANNPaper.jpg": "/static/media/ANNPaper.651df7e3f85c8933c6e0.jpg",
+    "static/media/rohanLeekha.jpg": "/static/media/rohanLeekha.eb510a0fefde6baf5ed4.jpg",
+    "static/media/logo-R(1).png": "/static/media/logo-R(1).8056ab6f997c44d4e1ff.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.feb0605d.css.map": "/static/css/main.feb0605d.css.map",
+    "main.111ef9c6.js.map": "/static/js/main.111ef9c6.js.map",
+    "787.ea5435e8.chunk.js.map": "/static/js/787.ea5435e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb0605d.css",
+    "static/js/main.111ef9c6.js"
+  ]
+}
